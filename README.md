@@ -13,3 +13,14 @@ On peut comparer Internet à un ensemble de tuyaux et le web au contenu qui circ
 
 Source :
 http://www.computerhistory.org/revolution/networking/19/314
+
+3. Qu'est-ce que ?
+    8.8.8.8 : C'est un Domain Name System (DNS) de Google. http://www.web-libre.org/breves/DNS-Google,11233.html
+
+    192.168.0.1 : c'est l'adresse IP qui sert à accéder aux paramètres d'un routeur.     Source : Quentin
+
+    255.255.255.0 : Il s'agit d'une adresse IP   Source : Divers (Google)
+
+    127.0.0.1 : Il s'agit de l'adresse IP que l'ordinateur va utiliser pour "communiquer avec lui-même" comme lorsque l'on développe une page web et qu'on la consulte sur la même machine sans passer par internet.
+
+  
