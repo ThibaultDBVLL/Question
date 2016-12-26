@@ -23,4 +23,11 @@ http://www.computerhistory.org/revolution/networking/19/314
 
     127.0.0.1 : Il s'agit de l'adresse IP que l'ordinateur va utiliser pour "communiquer avec lui-même" comme lorsque l'on développe une page web et qu'on la consulte sur la même machine sans passer par internet.
 
-  
+  4. Copyright et Copyleft :
+    Copyright : Une production (artistique, culturelle ...) sous copyright n'est pas mise à disposition librement. Il faut en général payer pour en obtenir une copie et il est interdit d'en retirer un bénéfice.
+    Source : recoupage de ce que j'en ai compris + wikipedia.
+
+    Copyleft : Il s'agit d'une licence autorisant la libre reproduction et modification d'un contenu à des fins non-commerciales. L'opensource en est un exemple.
+    Source : https://fr.wikipedia.org/wiki/Copyleft
+
+  5. 
