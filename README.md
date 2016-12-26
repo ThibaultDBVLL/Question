@@ -35,4 +35,10 @@ http://www.computerhistory.org/revolution/networking/19/314
 
   Il s'agit de licences similaires au copyleft. L'auteur d'une oeuvre peut déterminer 4 paramètres : l'attribution, l'utilisation commerciale, le partage et la modification du contenu qu'il met à disposition.
 
+  6. Grace Hopper :
+  Informaticienne américaine née en 1906 et morte en 1992. Elle a créé le langage COBOL ainsi que le premier compilateur. Elle s'est aussi illustrée dans la marine américaine.
+  Source : https://fr.wikipedia.org/wiki/Grace_Hopper
+
+  (Selon wikipedia, elle serait à l'origine du terme "bug" pour désigner un dysfonctionnement informatique, mais j'ai lu/entendu à plusieurs reprises que cette expression était due à Ada Lovelace (une autre pionnière de l'informatique).
+
   
