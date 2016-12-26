@@ -82,6 +82,3 @@
 - Quels sont les prochains événements tech sur St-Go?
 - Quelles sont les différences entre un client web et un serveur web ?
 - Donnez 3 exemples de chaque
-
-
-
