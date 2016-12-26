@@ -41,4 +41,7 @@ http://www.computerhistory.org/revolution/networking/19/314
 
   (Selon wikipedia, elle serait à l'origine du terme "bug" pour désigner un dysfonctionnement informatique, mais j'ai lu/entendu à plusieurs reprises que cette expression était due à Ada Lovelace (une autre pionnière de l'informatique).
 
+  7. Qwant :
+  Qwant est un moteur de recherche français créé en 2013 et qui a pour particularité de ne pas tracer ses utilisateurs (meilleur respect de la vie privée).
+
   
