@@ -43,5 +43,8 @@ http://www.computerhistory.org/revolution/networking/19/314
 
   7. Qwant :
   Qwant est un moteur de recherche français créé en 2013 et qui a pour particularité de ne pas tracer ses utilisateurs (meilleur respect de la vie privée).
+  Source : Wikipedia
 
-  
+  8. Steve Wozniak :
+  Né en 1950, il est l'un des cofondateur d'Apple. Légèrement précoce, il a créé son premier micro-ordinateur à 13 ans.
+  Source : Wikipedia
