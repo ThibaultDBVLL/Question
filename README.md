@@ -61,6 +61,7 @@ http://www.computerhistory.org/revolution/networking/19/314
 L'OS GNU est composé de logiciels libres, et en parrallèle, le mouvement GNU regroupe les acteurs du logiciel libre.
 Sources : Wikipédia + articles que j'ai lu il y a quelques temps lorsque je prévoyais de passer de Windows à Linux.
 
-11. HTTP vs HTTPS : Il s'agit de deux protocoles de communication client-serveur. (Le terme "client" renvoie le plus souvent aux navigateurs web). La particularité du https est qu'il est sécurisé par une couche de chiffrement SSL ou TLS. Il est censé garantir au visiteur l'authenticité du site sur lequel il se trouve.
+11. HTTP vs HTTPS : Il s'agit de deux protocoles de communication client-serveur. (Le terme "client" renvoie le plus souvent aux navigateurs web). La particularité du https est qu'il est sécurisé par une couche de chiffrement SSL ou TLS. Il est censé garantir au visiteur l'authenticité du site sur lequel il se trouve.     Source : Wikipedia
 
-12. 
+12. Richard Stallman : Né à Manhattan en 1953, Richard Stallman est un programmeur et militant du logiciel libre. Il est à l'origine du projet GNU, de la Free Software Foundation et de la licence publique GNU (GPL). Il aaussi popularisé le copyleft.
+Il publie également des articles sur certaines dérives du web, la politique et bien d'autres sujets sur son site https://stallman.org/.    Anecdote : il a inauguré la Rue du Logiciel Libre en Espagne  Sources : Wikipedia, stallman.org
