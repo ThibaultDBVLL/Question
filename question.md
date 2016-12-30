@@ -10,6 +10,7 @@
 - Qui est Grace Hopper ?
 - Qu'est-ce que Qwant ?
 - Qui est Steve Wozniak ?
+
 - D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
 - Qu’est-ce que le projet GNU ?
 - Quelles sont les différences entre le Http et le Https ?

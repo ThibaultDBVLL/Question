@@ -33,7 +33,7 @@ http://www.computerhistory.org/revolution/networking/19/314
 
   5. Les creatives commons :
 
-  Il s'agit de licences similaires au copyleft. L'auteur d'une oeuvre peut déterminer 4 paramètres : l'attribution, l'utilisation commerciale, le partage et la modification du contenu qu'il met à disposition.
+  Il s'agit de licences similaires au copyleft. L'auteur d'une oeuvre peut déterminer 4 paramètres : l'attribution, l'utilisation commerciale, le partage et la modification du contenu qu'il met à disposition. Organisation à but non lucratif
 
   6. Grace Hopper :
   Informaticienne américaine née en 1906 et morte en 1992. Elle a créé le langage COBOL ainsi que le premier compilateur. Elle s'est aussi illustrée dans la marine américaine.
@@ -48,3 +48,14 @@ http://www.computerhistory.org/revolution/networking/19/314
   8. Steve Wozniak :
   Né en 1950, il est l'un des cofondateur d'Apple. Légèrement précoce, il a créé son premier micro-ordinateur à 13 ans.
   Source : Wikipedia
+
+  9.
+    L'expression "bug informatique" : une explication discutée de l'origine de l'expression "bug informatique" attribue ce terme à Grace Hopper qui aurait retiré en 1945, un insecte (en anglais "bug") de son ordinateur Harvard Mark II.
+    Source : https://fr.wikipedia.org/wiki/Bug_(informatique)     Ce même article explique que ce terme est "faussement attribué à Grace Hooper" mais je n'ai pas trouvé d'autres explications de l'origine de ce terme.
+
+    Aaron Swartz : création RSS, défenseur de l'internet libre.
+
+10. GNU :
+OS, pour l'opensource
+
+11.
