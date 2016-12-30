@@ -10,18 +10,35 @@
 - Qui est Grace Hopper ?
 - Qu'est-ce que Qwant ?
 - Qui est Steve Wozniak ?
-
 - D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
 - Qu’est-ce que le projet GNU ?
 - Quelles sont les différences entre le Http et le Https ?
+
+
 - Qui est Richard Stallman ?
+
+
 - Comment fonctionnent les bang de Duck Duck Go ?
+
+
 - Qui est Marissa Mayer ?
+
+
 - Qu’est-ce qu’une attaque “brute force” ?
+
+
 - Qui est Linus Torvalds ?
+
+
 - Quels sont ses plus grands développements ?
+
+
 - Combien coûte un nom de domaine ?
+
+
 - Quels sont les différents services d'emailing disponibles ?
+
+
 - Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 - Quelle est votre adress IP actuelle ?
 - Et celle de votre smartphone ?

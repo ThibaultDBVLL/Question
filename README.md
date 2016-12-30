@@ -59,6 +59,8 @@ http://www.computerhistory.org/revolution/networking/19/314
 
 10. GNU : GNU est un système d'exploitation utilisant le noyau Linux. On trouve d'ailleurs souvent l'expression "GNU/Linux" pour parler aussi bien de l'OS ou du noyau, les deux ayant tendance à être confondus dans le langage courant.
 L'OS GNU est composé de logiciels libres, et en parrallèle, le mouvement GNU regroupe les acteurs du logiciel libre.
-Sources : Wikipédia, articles que j'ai lu il y a quelques temps lorsque je prévoyais de passer de Windows à Linux.
+Sources : Wikipédia + articles que j'ai lu il y a quelques temps lorsque je prévoyais de passer de Windows à Linux.
 
-11.
+11. HTTP vs HTTPS : Il s'agit de deux protocoles de communication client-serveur. (Le terme "client" renvoie le plus souvent aux navigateurs web). La particularité du https est qu'il est sécurisé par une couche de chiffrement SSL ou TLS. Il est censé garantir au visiteur l'authenticité du site sur lequel il se trouve.
+
+12. 
