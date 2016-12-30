@@ -53,9 +53,12 @@ http://www.computerhistory.org/revolution/networking/19/314
     L'expression "bug informatique" : une explication discutée de l'origine de l'expression "bug informatique" attribue ce terme à Grace Hopper qui aurait retiré en 1945, un insecte (en anglais "bug") de son ordinateur Harvard Mark II.
     Source : https://fr.wikipedia.org/wiki/Bug_(informatique)     Ce même article explique que ce terme est "faussement attribué à Grace Hooper" mais je n'ai pas trouvé d'autres explications de l'origine de ce terme.
 
-    Aaron Swartz : création RSS, défenseur de l'internet libre.
+    Aaron Swartz : Américain né en 1986 et mort en 2013 à 26 ans. Cybermilitant, il a contribué au développement du flux RSS et de l'organisation Creative Commons. Accusé d'avoir piraté environ 5 millions d'articles scientifiques dans le but d'en tirer profit, il s'est suicidé un moi avant son procès.
 
-10. GNU :
-OS, pour l'opensource
+    Source : Wikipedia
+
+10. GNU : GNU est un système d'exploitation utilisant le noyau Linux. On trouve d'ailleurs souvent l'expression "GNU/Linux" pour parler aussi bien de l'OS ou du noyau, les deux ayant tendance à être confondus dans le langage courant.
+L'OS GNU est composé de logiciels libres, et en parrallèle, le mouvement GNU regroupe les acteurs du logiciel libre.
+Sources : Wikipédia, articles que j'ai lu il y a quelques temps lorsque je prévoyais de passer de Windows à Linux.
 
 11.
