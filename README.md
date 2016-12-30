@@ -65,3 +65,7 @@ Sources : Wikipédia + articles que j'ai lu il y a quelques temps lorsque je pr�
 
 12. Richard Stallman : Né à Manhattan en 1953, Richard Stallman est un programmeur et militant du logiciel libre. Il est à l'origine du projet GNU, de la Free Software Foundation et de la licence publique GNU (GPL). Il aaussi popularisé le copyleft.
 Il publie également des articles sur certaines dérives du web, la politique et bien d'autres sujets sur son site https://stallman.org/.    Anecdote : il a inauguré la Rue du Logiciel Libre en Espagne  Sources : Wikipedia, stallman.org
+
+13. Duck Duck GO et ses Bang : Duck Duck Go, permet, via sa page d'acceuil de lancer une recherche directement sur un autre site, sans devoir effectuer une première recherche pour trouver le site cible puis y taper son mot-clé.
+
+14. 
