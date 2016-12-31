@@ -71,8 +71,12 @@ Source : https://grawok.wordpress.com/2012/03/03/duckduckgo-utilisation-avancee-
 
 14. Marissa Mayer : Informaticienne américaine née en 1975 dans le Wisconsin. Après avoir été vice-présidente responsable des services de cartographie et de géolocalisation chez Google, elle est aujourd'hui PDG de Yahoo!. En 2013, le magazine Forbes la désigne 32e femme la plus puissante au monde.
 
-15. L'attaque "Brute Force" :
+15. L'attaque "Brute Force" : Une attaque par "force brute" consiste pour une personne (le plus souvent mal intentionnée) à pirater un site ou un compte ne lui appartenant pas. Elle se sert pour cela d'un script qui testera méthodiquement un nombre très grand d'identifiants et de mots de passe (jusqu'à quelques millions de mots de passe par seconde). Afin de rendre l'opération plus difficile, les meilleures défenses sont : 1) complexifier son mot de passe en l'allongeant et en y insérant des caractères de type différents (lettres, majuscules, minuscules, nombres, caractères nationaux... ) 2) Générer un mot de passe aléatoire.
+Sources : Wikipedia, OpenClassRoom.
 
-16. Linus Torvalds :
+16. Linus Torvalds : Informaticien Américano-Finlandais, Linus est né le 28 décembre 1969 à Helsinki en Finlande. Il a inventé "accidentellement" un noyau de système d'exploitation. A la base, il voulait simplement développer une alternative à l'émulateur de terminal de l'OS Minix qu'il jugeait trop rudimentaire. Il supprima par erreur son système d'exploitation et décida de re-batir un noyau d'OS à partir de son émulateur. Par la suite, Linus fit appel à des contributeurs pour l'aider à améliorer sa création et il en distribuait aussi gratuitement des copies.
+ Heureuse coïncidence, le système d'exploitation de Richard Stallman (GNU) était bloqué au stade expérimental car son noyau (Hurd) était en cours de développement.  Le noyau de Linus est venu compléter l'OS GNU afin de former l'OS... GNU/LINUX !
+ Il rejoint la Linux Fondation en 2003 pour se consacrer à Linux à plein temps.
+ Linus Torvalds est aussi à l'origine de Git (logiciel de gestion de version).
 
-A retenir : Dieu suprême de l'informatique, son système d'exploitation divin permet aux simploniens de St-Gaudens de lui écrire des prières en HTML et JS.
+A retenir : Linus Torvalds souvent surnommé "le dictateur bienveillant", s'est élevé au rang de Dieu suprême de l'informatique. C'est pourquoi tous les jours les simploniens de St-Gaudens lui écrivent des prières dans des langues telles que le HTML ou le Javascript à l'aide de l'OS dont il a conçu le noyau.
