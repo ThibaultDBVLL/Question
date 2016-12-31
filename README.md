@@ -80,3 +80,13 @@ Sources : Wikipedia, OpenClassRoom.
  Linus Torvalds est aussi à l'origine de Git (logiciel de gestion de version).
 
 A retenir : Linus Torvalds souvent surnommé "le dictateur bienveillant", s'est élevé au rang de Dieu suprême de l'informatique. C'est pourquoi tous les jours les simploniens de St-Gaudens lui écrivent des prières dans des langues telles que le HTML ou le Javascript à l'aide de l'OS dont il a conçu le noyau.
+Source : Wikipédia (+humour perso).
+
+
+17.       // Question à compléter
+
+18. Combien coûte un nom de domaine ? Le coùt d'un nom de domaine est variable. Les facteurs pouvant influer sont : le label de premier niveau (.com, .fr, .org ...)
+
+Sources : Wikipedia, https://www.netissime.com/nom_de_domaine/tarif-nom-de-domaine/ ;         // Question à compléter
+
+19. 
