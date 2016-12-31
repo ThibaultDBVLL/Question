@@ -67,5 +67,12 @@ Sources : Wikipédia + articles que j'ai lu il y a quelques temps lorsque je pr�
 Il publie également des articles sur certaines dérives du web, la politique et bien d'autres sujets sur son site https://stallman.org/.    Anecdote : il a inauguré la Rue du Logiciel Libre en Espagne  Sources : Wikipedia, stallman.org
 
 13. Duck Duck GO et ses Bang : Duck Duck Go, permet, via sa page d'acceuil de lancer une recherche directement sur un autre site, sans devoir effectuer une première recherche pour trouver le site cible puis y taper son mot-clé.
+Source : https://grawok.wordpress.com/2012/03/03/duckduckgo-utilisation-avancee-du-moteur-qui-fait-bang/
 
-14. 
+14. Marissa Mayer : Informaticienne américaine née en 1975 dans le Wisconsin. Après avoir été vice-présidente responsable des services de cartographie et de géolocalisation chez Google, elle est aujourd'hui PDG de Yahoo!. En 2013, le magazine Forbes la désigne 32e femme la plus puissante au monde.
+
+15. L'attaque "Brute Force" :
+
+16. Linus Torvalds :
+
+A retenir : Dieu suprême de l'informatique, son système d'exploitation divin permet aux simploniens de St-Gaudens de lui écrire des prières en HTML et JS.
