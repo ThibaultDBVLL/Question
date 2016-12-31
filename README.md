@@ -89,4 +89,6 @@ Source : Wikipédia (+humour perso).
 
 Sources : Wikipedia, https://www.netissime.com/nom_de_domaine/tarif-nom-de-domaine/ ;         // Question à compléter
 
-19. 
+19. Les différents services d'emailing disponibles : Il me semble long et fastidieux d'établir une liste exhaustive des services d'emailing en ligne. Wikipédia fournit une liste des principales plateformes d'emailing en ligne : Benchmark Email ; Dolist ; EmailStrategie ; E-Missive ; eTarget Web : GetResponse ; Mailpro ;SendinBlue.
+
+A cela s'ajoutent les logiciels d'emailing :  Benchmark Email; eTarget eMailing ; Oximailing ; Sarbacane ; Mailpro ; SendinBlue ; E-Missive. (Pour la source, il s'agit encore de wikipedia).
