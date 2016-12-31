@@ -85,10 +85,31 @@ Source : Wikipédia (+humour perso).
 
 17.       // Question à compléter
 
-18. Combien coûte un nom de domaine ? Le coùt d'un nom de domaine est variable. Les facteurs pouvant influer sont : le label de premier niveau (.com, .fr, .org ...)
+18. Combien coûte un nom de domaine ? Le coùt d'un nom de domaine est variable. Les facteurs pouvant influer sont : le label de premier niveau (.com, .fr, .org ...)        // à compléter
 
 Sources : Wikipedia, https://www.netissime.com/nom_de_domaine/tarif-nom-de-domaine/ ;         // Question à compléter
 
 19. Les différents services d'emailing disponibles : Il me semble long et fastidieux d'établir une liste exhaustive des services d'emailing en ligne. Wikipédia fournit une liste des principales plateformes d'emailing en ligne : Benchmark Email ; Dolist ; EmailStrategie ; E-Missive ; eTarget Web : GetResponse ; Mailpro ;SendinBlue.
 
 A cela s'ajoutent les logiciels d'emailing :  Benchmark Email; eTarget eMailing ; Oximailing ; Sarbacane ; Mailpro ; SendinBlue ; E-Missive. (Pour la source, il s'agit encore de wikipedia).
+
+20.  Le client et ses mails automatiques :       // à compléter
+
+21. Mon adresse IP actuelle : 92.162.130.138        Source : https://www.adresseip.com/
+
+22. Adresse IP de mon téléphone : 92.162.130.138. (Pour ce que j'ai pu en voir, seul le port utilisé varie par rapport à mon PC.) https://www.adresseip.com/
+
+23. Le développement en cycle V : Il s'agit d'un modèle de gestion de projet. Ses étapes sont :
+1) Analyse des besoins et faisabilité 2) Spécification fonctionnelle 3)Conception architecturale 4)Conception détaillée 5) Codage 6) Test unitaire 7) Test d'intégration 8) Test de validation 9) Test d'Acceptation.
+Cette méthode s'est imposée dans les années 80 et est aujourd'hui obsolète.
+Chaque étape du cycle en V ne concerne que quelques membres de l'équipe.
+L'une des principales faiblesses de cette méthode est appelé "effet tunnel" : L'équipe avance "en aveugle", sans avoir de feedbacks réguliers venant du client qui permettrait d'ajuster le développement du produit au fur et à mesure de sa conception'.
+
+https://www.pentalog.fr/notre_demarche/methodologie_cycle_en_v.htm
+https://fr.wikibooks.org/wiki/Programmation_Cycle_en_V
+https://fr.wikipedia.org/wiki/Cycle_en_V
+
+
+
+
+Les joies du code : Il s'agit d'un site humouristique qui recense des évènements classiques dans la vie d'un développeur et les associe à des GIF. On pourrait appeller ça la "VDM du développeur". Par exemple "Quand je me rends compte que je bloque depuis 2 heures a cause d'un point virgule oublié". http://lesjoiesducode.fr/post/36581607302/quand-je-me-rends-compte-que-je-bloque-depuis-2

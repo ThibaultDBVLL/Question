@@ -30,13 +30,14 @@
 - Qui est Linus Torvalds ?
 
 
-- Quels sont ses plus grands développements ?
+- Quels sont ses plus grands développements ?     // Question à compléter
 
 
 - Combien coûte un nom de domaine ?
 
 
 - Quels sont les différents services d'emailing disponibles ?
+
 
 
 - Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
