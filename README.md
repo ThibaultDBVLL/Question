@@ -109,7 +109,24 @@ https://www.pentalog.fr/notre_demarche/methodologie_cycle_en_v.htm
 https://fr.wikibooks.org/wiki/Programmation_Cycle_en_V
 https://fr.wikipedia.org/wiki/Cycle_en_V
 
+24. Les Hackers et la loi : Tout va dépendre de l'activité et du but du Hacker. On leur attribue généralement une couleur de chapeaux pour distinguer les hackers hors-la-loi, les "gentils" et les autres.
 
+Les blacks hat correspondent au cliché de la culture populaire du hacker qui pirate des sites afin de piller des données, effectuer des transactions bancaires frauduleuses ou tout simplement nuire à d'autres via internet (pour le plaisir ou par vengeance). Ceux là sont donc hors-la-loi.
 
+Les white hat représentent à peu près l'inverse, ce sont des professionnels de la sécurité qui tentent de déjouer la sécurité de leurs clients afin de leur signaler d'éventuelles failles. Leur activité est donc tout à fait légale.
+
+Les blue hat sont des consultants en sécurité informatique. Leur rôle est de corriger des bugs avant le lancement de sites ou de systèmes d'exploitation (on en trouve par exemple chez Microsoft, mais aussi chez GNU/Linux puisque chaque utilisateur peut contribuer à son amélioration). Leur action est donc aussi légale.
+
+Les grey hat et les hacktivistes ne sont pas des cyber-criminels et ne sont pas toujours mal-intentionnés mais ils sont susceptibles d'agir illégalement.
+Source : Wikipedia
+
+25. L'invention de la souris : C'est Douglas Engelbart qui créa la souris en 1968. On lui doit également le principe de l'hypertexte. C'est aussi suite à ses recherches (sur la collaboration en ligne notamment) que la société pour laquelle il travaillait (l'Arc, financée par l'ARPA) créé l'ARPANET.
+Source : Wikipedia
+
+26. Margaret Hamilton : née en 1936 aux Etats Unis, Margaret Hamilton est informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention1) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo.
+Son exemple a contribué à l'ouverture de l'informatique aux femmes à une période il était très rare qu'une femme (une mère, de surcorît) mène une carrière à haut de niveau de responsabilité dans le milieu de l'informatique.
+Source : Wikipédia
+
+27. Le code source de la mission Apollo11 est disponible sur Github ici : https://github.com/chrislgarry/Apollo-11
 
 Les joies du code : Il s'agit d'un site humouristique qui recense des évènements classiques dans la vie d'un développeur et les associe à des GIF. On pourrait appeller ça la "VDM du développeur". Par exemple "Quand je me rends compte que je bloque depuis 2 heures a cause d'un point virgule oublié". http://lesjoiesducode.fr/post/36581607302/quand-je-me-rends-compte-que-je-bloque-depuis-2
