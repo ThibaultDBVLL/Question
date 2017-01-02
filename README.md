@@ -25,10 +25,10 @@ http://www.computerhistory.org/revolution/networking/19/314
 
   4. Copyright et Copyleft :
 
-    Copyright : Une production (artistique, culturelle ...) sous copyright n'est pas mise à disposition librement. Il faut en général payer pour en obtenir une copie et il est interdit de s'en service dans un but lucratif.
+    * Copyright : Une production (artistique, culturelle ...) sous copyright n'est pas mise à disposition librement. Il faut en général payer pour en obtenir une copie et il est interdit de s'en service dans un but lucratif.
     Source : recoupage de ce que j'en ai compris + wikipedia.
 
-    Copyleft : Il s'agit d'une licence autorisant la libre reproduction et modification d'un contenu à des fins non lucratives. L'opensource en est un exemple.
+    * Copyleft : Il s'agit d'une licence autorisant la libre reproduction et modification d'un contenu à des fins non lucratives. L'opensource en est un exemple.
     Source : https://fr.wikipedia.org/wiki/Copyleft
 
   5. Les creatives commons :
@@ -50,10 +50,10 @@ http://www.computerhistory.org/revolution/networking/19/314
   Source : Wikipedia
 
   9.
-    L'expression "bug informatique" : une explication discutée de l'origine de l'expression "bug informatique" attribue ce terme à Grace Hopper qui aurait retiré en 1945, un insecte (en anglais "bug") de son ordinateur Harvard Mark II.
+    * L'expression "bug informatique" : une explication discutée de l'origine de l'expression "bug informatique" attribue ce terme à Grace Hopper qui aurait retiré en 1945, un insecte (en anglais "bug") de son ordinateur Harvard Mark II.
     Source : https://fr.wikipedia.org/wiki/Bug_(informatique)     Ce même article explique que ce terme est "faussement attribué à Grace Hooper" mais je n'ai pas trouvé d'autres explications de l'origine de ce terme.
 
-    Aaron Swartz : Américain né en 1986 et mort en 2013 à 26 ans. Cybermilitant, il a contribué au développement du flux RSS et de l'organisation Creative Commons. Accusé d'avoir piraté environ 5 millions d'articles scientifiques dans le but d'en tirer profit, il s'est suicidé un moi avant son procès.
+    * Aaron Swartz : Américain né en 1986 et mort en 2013 à 26 ans. Cybermilitant, il a contribué au développement du flux RSS et de l'organisation Creative Commons. Accusé d'avoir piraté environ 5 millions d'articles scientifiques dans le but d'en tirer profit, il s'est suicidé un moi avant son procès.
 
     Source : Wikipedia
 
@@ -111,13 +111,13 @@ https://fr.wikipedia.org/wiki/Cycle_en_V
 
 24. Les Hackers et la loi : Tout va dépendre de l'activité et du but du Hacker. On leur attribue généralement une couleur de chapeaux pour distinguer les hackers hors-la-loi, les "gentils" et les autres.
 
-Les blacks hat correspondent au cliché de la culture populaire du hacker qui pirate des sites afin de piller des données, effectuer des transactions bancaires frauduleuses ou tout simplement nuire à d'autres via internet (pour le plaisir ou par vengeance). Ceux là sont donc hors-la-loi.
+* Les blacks hat correspondent au cliché de la culture populaire du hacker qui pirate des sites afin de piller des données, effectuer des transactions bancaires frauduleuses ou tout simplement nuire à d'autres via internet (pour le plaisir ou par vengeance). Ceux là sont donc hors-la-loi.
 
-Les white hat représentent à peu près l'inverse, ce sont des professionnels de la sécurité qui tentent de déjouer la sécurité de leurs clients afin de leur signaler d'éventuelles failles. Leur activité est donc tout à fait légale.
+* Les white hat représentent à peu près l'inverse, ce sont des professionnels de la sécurité qui tentent de déjouer la sécurité de leurs clients afin de leur signaler d'éventuelles failles. Leur activité est donc tout à fait légale.
 
-Les blue hat sont des consultants en sécurité informatique. Leur rôle est de corriger des bugs avant le lancement de sites ou de systèmes d'exploitation (on en trouve par exemple chez Microsoft, mais aussi chez GNU/Linux puisque chaque utilisateur peut contribuer à son amélioration). Leur action est donc aussi légale.
+* Les blue hat sont des consultants en sécurité informatique. Leur rôle est de corriger des bugs avant le lancement de sites ou de systèmes d'exploitation (on en trouve par exemple chez Microsoft, mais aussi chez GNU/Linux puisque chaque utilisateur peut contribuer à son amélioration). Leur action est donc aussi légale.
 
-Les grey hat et les hacktivistes ne sont pas des cyber-criminels et ne sont pas toujours mal-intentionnés mais ils sont susceptibles d'agir illégalement.
+* Les grey hat et les hacktivistes ne sont pas des cyber-criminels et ne sont pas toujours mal-intentionnés mais ils sont susceptibles d'agir illégalement.
 Source : Wikipedia
 
 25. L'invention de la souris : C'est Douglas Engelbart qui créa la souris en 1968. On lui doit également le principe de l'hypertexte. C'est aussi suite à ses recherches (sur la collaboration en ligne notamment) que la société pour laquelle il travaillait (l'Arc, financée par l'ARPA) créé l'ARPANET.
@@ -129,4 +129,10 @@ Source : Wikipédia
 
 27. Le code source de la mission Apollo11 est disponible sur Github ici : https://github.com/chrislgarry/Apollo-11
 
-Les joies du code : Il s'agit d'un site humouristique qui recense des évènements classiques dans la vie d'un développeur et les associe à des GIF. On pourrait appeller ça la "VDM du développeur". Par exemple "Quand je me rends compte que je bloque depuis 2 heures a cause d'un point virgule oublié". http://lesjoiesducode.fr/post/36581607302/quand-je-me-rends-compte-que-je-bloque-depuis-2
+28.
+
+
+
+
+
+79. Les joies du code : Il s'agit d'un site humouristique qui recense des évènements classiques dans la vie d'un développeur et les associe à des GIF. On pourrait appeller ça la "VDM du développeur". Par exemple "Quand je me rends compte que je bloque depuis 2 heures a cause d'un point virgule oublié". http://lesjoiesducode.fr/post/36581607302/quand-je-me-rends-compte-que-je-bloque-depuis-2

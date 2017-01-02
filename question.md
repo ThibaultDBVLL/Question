@@ -45,24 +45,31 @@
 - Et celle de votre smartphone ?
 - Qu’est-ce que le développement en cycle V ?
 - Les Hackers sont-ils des hors-la-loi ?
+
+
+
 - Qui a inventé la souris ?
+
+
 - Qui est Margaret Hamilton ?
-- Retrouvez le code source de la mission Apollo 11.
-- Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
-- Qu’est-ce que Agile Manifesto ?
-- Trouvez un screenshot de la première version de Facebook
-- Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
-- Qu'est-ce que le load balancing ?
-- Qu’est-ce que l’Open Source ?
-- Qu’est-ce que le Bug Bounty ?
-- Qu'est-ce qu'une adresse IP v4 ?
-- Pourquoi parle-t-on aussi d'adresse IP v6 ?
-- Combien coûte un serveur pour héberger mon site perso ?
-- Qu’est-ce que le Cowboy coding ?
-- Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
-- Quelles sont les différences entre un software open-source et un software free ?
-- Trouvez trois entreprises qui développent des solutions Free & OpenSource
-- comment gagnent-elles de l’argent ?
+27. - Retrouvez le code source de la mission Apollo 11.
+
+
+28 - Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+29 - Qu’est-ce que Agile Manifesto ?
+30 - Trouvez un screenshot de la première version de Facebook
+31 - Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+32 - Qu'est-ce que le load balancing ?
+33 - Qu’est-ce que l’Open Source ?
+34- Qu’est-ce que le Bug Bounty ?
+35 - Qu'est-ce qu'une adresse IP v4 ?
+36- Pourquoi parle-t-on aussi d'adresse IP v6 ?
+37 - Combien coûte un serveur pour héberger mon site perso ?
+38 - Qu’est-ce que le Cowboy coding ?
+39 - Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+40 - Quelles sont les différences entre un software open-source et un software free ?
+41 - Trouvez trois entreprises qui développent des solutions Free & OpenSource
+42 - comment gagnent-elles de l’argent ?
 - Qui est Phil Zimmermann ?
 - Qu’est-ce que le W3C ?
 - Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
